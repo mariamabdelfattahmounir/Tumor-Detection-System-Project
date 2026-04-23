@@ -1,6 +1,6 @@
 # Tumor-Detection-System-Project
 📌 Project Description
-![image]()
+![image](https://github.com/mariamabdelfattahmounir/Tumor-Detection-System-Project/blob/5b7d9deea4d7851d2ea0287ca4964e39c31261ed/mm.jpg)
 This project presents a comprehensive AI-Powered MRI Brain Tumor Detection and Analysis System that leverages advanced deep learning techniques to assist in accurate, fast, and scalable medical diagnosis. The system is designed as an end-to-end intelligent pipeline that processes raw MRI scans and produces clinically meaningful outputs, including tumor detection, segmentation, classification, volumetric analysis, and automated report generation.
 
 In traditional clinical workflows, brain tumor diagnosis relies heavily on the expertise of radiologists, which can lead to variability in results, especially in complex or borderline cases. Additionally, manual analysis of medical images is time-consuming and resource-intensive. This project addresses these challenges by providing an intelligent system that enhances diagnostic consistency, reduces workload, and accelerates decision-making.
